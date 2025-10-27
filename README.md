@@ -1,6 +1,6 @@
 # **Horilla 🦍** [![LGPL License](https://img.shields.io/badge/license-LGPL-green.svg)](https://www.gnu.org/licenses/lgpl-3.0)  [![Docker](https://img.shields.io/badge/Docker-Horilla-blue?logo=docker)](https://hub.docker.com/r/horilla/horilla)
 
-**Horilla** is a Free and Open Source HRMS (Human Resource Management System) Software designed to streamline HR processes and enhance organizational efficiency.
+**Horilla** is a Free and Open Source HRMS (Human Resource Management System) Software designed to streamline HR processes and enhance organizational efficiency..
 
 ![Horilla Screenshot](https://github.com/horilla-opensource/horilla/assets/131998600/1317bd0a-03a8-40be-8fb2-ecb655bb5c13)
 
