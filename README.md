@@ -219,7 +219,7 @@ git pull horilla master
 
 1. Rename the environment file:
    ```bash
-   mv .env.dist .env
+   mv .env.bkp.dist .env.bkp
    ```
 
 2. Edit the `.env` file and set the following values:
