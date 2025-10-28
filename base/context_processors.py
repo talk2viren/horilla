@@ -113,7 +113,7 @@ def update_selected_company(request):
             if emp_company != company:
                 text = "Other Company"
                 if company_id == user_company:
-                    text = "My Company"
+                    text = ""
                 company = {
                     "company": company.company,
                     "icon": company.icon.url,
@@ -170,12 +170,12 @@ def white_labelling_company(request):
             company = hq
 
         return {
-            "white_label_company_name": company.company if company else "Horilla",
+            "white_label_company_name": company.company if company else "Vaspire",
             "white_label_company": company,
         }
     else:
         return {
-            "white_label_company_name": "Horilla",
+            "white_label_company_name": "Vaspire",
             "white_label_company": None,
         }
 
